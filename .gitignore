@@ -30,6 +30,6 @@ build/
 *.patch
 *.tmp
 
-# system ignore
+#  system ignore
 .DS_Store
 Thumbs.db

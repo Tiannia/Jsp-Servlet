@@ -6,8 +6,9 @@
 
    而支付管理与前台个人信息用户管理等没有实现。
 
-3. 基于JDBC实现与Mysql数据库交互。
+3. 通过JDBC实现与Mysql数据库交互。
 
 4. 少量javascript代码与前端响应式网站模板（CSS+HTML）。
 
 5. 平台：IDEA 
+

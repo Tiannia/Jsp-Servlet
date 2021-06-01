@@ -42,7 +42,7 @@
         <div class="you fl">
             <div class="tx clearfix">
                 <div class="fl clearfix"><a href="#" class="fl"><img src="img/tx.png"/></a>
-                    <p class="fl"><span>${name.USER_NAME }</span><a href="mygrxx.html">修改个人信息></a></p></div>
+                    <p class="fl"><span>${name.USER_NAME }</span><a href="mygrxx.jsp">修改个人信息></a></p></div>
                 <div class="fr">绑定邮箱：${name.USER_EMAIL }</div>
             </div>
             <div class="bott">

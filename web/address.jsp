@@ -21,7 +21,7 @@
 <<!------------------------------idea------------------------------>
 <div class="address mt">
     <div class="wrapper clearfix"><a href="index.html" class="fl">首页</a><span>/</span><a
-            href="mygxin.html">个人中心</a><span>/</span><a href="address.html" class="on">地址管理</a></div>
+            href="mygxin.html">个人中心</a><span>/</span><a href="address.jsp" class="on">地址管理</a></div>
 </div><!------------------------------Bott------------------------------>
 <div class="Bott">
     <div class="wrapper clearfix">
@@ -36,7 +36,7 @@
                 <h4>个人中心</h4>
                 <ul>
                     <li><a href="mygxin.jsp">我的中心</a></li>
-                    <li class="on"><a href="address.html">地址管理</a></li>
+                    <li class="on"><a href="address.jsp">地址管理</a></li>
                 </ul>
                 <h4>账户管理</h4>
                 <ul>

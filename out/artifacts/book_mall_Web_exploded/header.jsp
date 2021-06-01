@@ -25,12 +25,8 @@
                 <form action="#" method="get" class="fl"><input type="text" placeholder="热门搜索：Python"/><input
                         type="button"/></form>
                 <div class="btn fl clearfix"><a href="mygxin.jsp"><img src="img/grzx.png"/></a><a href="#" class="er1">
-
                     <img src="img/ewm.png"/></a>
-                    <c:if test="${isLogin ==1 }">
-
-                        <a href="showcart"> <img src="img/gwc.png"/></a>
-                    </c:if>
+                    <a href="showcart"> <img src="img/gwc.png"/></a>
                     <p><a href="#"><img src="img/smewm.png"/></a></p></div>
             </div>
         </div>

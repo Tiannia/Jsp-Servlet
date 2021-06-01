@@ -32,7 +32,7 @@
                 </p></h3>
             <div><h4>我的交易</h4>
                 <ul>
-                    <li><a href="cart.jsp">我的购物车</a></li>
+                    <li><a href="showcart">我的购物车</a></li>
                     <li><a href="showorderinfo">我的订单</a></li>
                 </ul>
                 <h4>个人中心</h4>

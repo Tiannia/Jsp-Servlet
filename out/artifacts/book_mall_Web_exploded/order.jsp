@@ -25,7 +25,7 @@
                         <div class="tit clearfix"><p class="fl">${defad.receive_name} <span
                                 class="default">[默认地址]</span>
                         </p>
-                            <p class="fr"><a href="#">删除</a><span>|</span><a href="#" class="edit">编辑</a></p></div>
+                            <p class="fr"><a href="#">删除</a><span>|</span><a href="#" class="edit">添加</a></p></div>
                         <div class="addCon">
                             <p>详细地址：${defad.province}&nbsp;${defad.city}&nbsp;${defad.district}&nbsp;${defad.address}</p>
                             <p>配送区域：${defad.send_place}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮政编码：${defad.zipcode}</p>

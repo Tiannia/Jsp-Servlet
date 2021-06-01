@@ -1,21 +1,36 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8" %>
 <!DOCTYPE html>
+
 <html>
-<%@ include file="header.jsp" %>
 <head lang="en">
     <meta charset="utf-8"/>
     <title>Pig's Book Shop</title>
-    <link rel="shortcut icon" type="image/x-icon" href="/book_mall/manger/assets/img/icon/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/book_mall/manger/assets/img/icon/favicon.png"/>
     <link rel="stylesheet" type="text/css" href="css/public.css"/>
     <link rel="stylesheet" type="text/css" href="css/index.css"/>
-
-
+    <style type="text/css">
+        div.onphoto h1{
+            position:absolute;
+            text-align: center;
+            padding-left: 200px;
+            padding-top: 50px;
+            font-size: 40px;
+            font-style: italic;
+            color: RGB(255,130,71);
+        }
+    </style>
 </head>
+
 <body>
+<%@ include file="header.jsp" %>
 <!------------------------------head------------------------------>
-<img src="img/index_show/image20.png" style="">
-<img src="img/index_show/65138347_p0.png" style="">
+<div class="onphoto">
+    <h1>
+        Welcome to Pig's Book Shop!
+    </h1>
+    <img src="img/index_show/65138347_p0.png">
+</div>
 <img src="img/index_show/65394490_p0.png" style="">
 <img src="img/index_show/64226279_p0.png" style="">
 <!-------------------------banner--------------------------->

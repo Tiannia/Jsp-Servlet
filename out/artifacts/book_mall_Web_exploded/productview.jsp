@@ -166,25 +166,7 @@
                     <dd>￥${cp.PRODUCT_PRICE }.00</dd>
                 </dl>
                 </c:forEach>
-            </a><a href="#">
-            <dl>
-                <dt><img src="img/temp/see02.jpg"></dt>
-                <dd>【最家】复古文艺风玻璃花瓶</dd>
-                <dd>￥193.20</dd>
-            </dl>
-        </a><a href="#">
-            <dl>
-                <dt><img src="img/temp/see03.jpg"></dt>
-                <dd>【最家】复古文艺风玻璃花瓶</dd>
-                <dd>￥193.20</dd>
-            </dl>
-        </a><a href="#">
-            <dl>
-                <dt><img src="img/temp/see04.jpg"></dt>
-                <dd>【最家】复古文艺风玻璃花瓶</dd>
-                <dd>￥193.20</dd>
-            </dl>
-        </a></div>
+            </div>
     </div>
 </div>
 <div class="like"><h4>最近访问</h4>
@@ -205,13 +187,7 @@
                                 <dd>￥${lp.PRODUCT_PRICE }.00</dd>
                             </dl>
                         </a>
-                    </c:forEach><a href="proDetail.html">
-                    <dl>
-                        <dt><img src="img/temp/like01.jpg"></dt>
-                        <dd>【最家】复古文艺风玻璃花瓶</dd>
-                        <dd>￥193.20</dd>
-                    </dl>
-                </a>
+                    </c:forEach>
                 </div>
             </div>
         </div>

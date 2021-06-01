@@ -33,7 +33,7 @@
                 <p class="clearfix"><span class="fl">[${name.USER_NAME }]</span><span class="fr"><a href="logout">[退出登录]</a></span></p></h3>
             <div><h4>我的交易</h4>
                 <ul>
-                    <li><a href="cart.jsp">我的购物车</a></li>
+                    <li><a href="showcart">我的购物车</a></li>
                     <li><a href="showorderinfo">我的订单</a></li>
                 </ul>
                 <h4>个人中心</h4>

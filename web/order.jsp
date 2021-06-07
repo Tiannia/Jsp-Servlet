@@ -36,7 +36,7 @@
                             <div class="addre fl" name="${ar.receive_address_id}">
                                 <div class="tit clearfix"><p class="fl">${ar.receive_name}</p>
                                     <p class="fr"><a href="#" class="setDefault">设为默认</a><span>|</span><a
-                                            href="#">删除</a><span>|</span><a href="#" class="edit">编辑</a></p></div>
+                                            href="#">删除</a><span>|</span><a href="#" class="edit">添加</a></p></div>
                                 <div class="addCon">
                                     <p>详细地址：${ar.province}&nbsp;${ar.city}&nbsp;${ar.district}&nbsp;${ar.address}</p>
                                     <p>配送区域：${ar.send_place}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮政编码：${ar.zipcode}</p>

@@ -19,7 +19,7 @@
 <!-----------------address------------------------------->
 <div class="address">
     <div class="wrapper clearfix"><a href="indexselect">首页</a><span>/</span><a
-            href="flowerDer.html">编程入门</a><span>/</span><a href="proList.html" class="on">${title }</a></div>
+            href="#">编程入门</a><span>/</span><a href="#" class="on">${title }</a></div>
 </div><!-------------------current---------------------->
 <div class="current">
     <div class="wrapper clearfix"><h3 class="fl">${title }</h3>

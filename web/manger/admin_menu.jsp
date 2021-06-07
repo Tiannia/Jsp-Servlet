@@ -5,6 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/book_mall/manger/assets/img/icon/favicon.png">
     <link rel="stylesheet" type="text/css" href="<%= path %>/manger/css/common.css"/>
     <link rel="stylesheet" type="text/css" href="<%= path %>/manger/css/main.css"/>
 </head>

@@ -29,9 +29,9 @@ public class DoProductAdd extends HttpServlet {
         //创建SmartUpload对象
         request.setCharacterEncoding("UTF-8");
         response.setContentType("text/html;charset=UTF-8");
-        SmartUpload su = new SmartUpload();
 
         //初使化
+        SmartUpload su = new SmartUpload();
         su.initialize(this.getServletConfig(), request, response);
 
         //上传过程

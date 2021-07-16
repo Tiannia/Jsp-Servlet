@@ -13,5 +13,5 @@
 
 - 前端响应式网站模板(CSS+HTML+JS)
 
-- Platform: IDEA
+- Platform: IDEA-Tomcat
 

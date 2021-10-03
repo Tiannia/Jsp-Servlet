@@ -15,4 +15,4 @@
 
 - Platform: IDEA-Tomcat
 
-- bookmall.sql is needed to add, later.
+- bookmall.sql is needed to be added to this repository, later.

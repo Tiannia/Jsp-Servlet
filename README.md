@@ -15,3 +15,4 @@
 
 - Platform: IDEA-Tomcat
 
+- bookmall.sql is needed to add, later.
